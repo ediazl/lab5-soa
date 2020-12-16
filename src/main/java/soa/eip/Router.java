@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 public class Router extends RouteBuilder {
 
   public static final String DIRECT_URI = "direct:twitter";
+  final String max = "10"; //Number of tweets to retrieve
 
   @Override
   public void configure() {
