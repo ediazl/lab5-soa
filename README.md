@@ -24,7 +24,7 @@ Done:
 
 - [Use Camel for keeping a copy of responses in a database](https://github.com/rauljavierre/lab5-soa/tree/test) Raul Javierre has learned how an external database can be integrated in a Camel route quite easily. In additon, his work shows how to use docker-compose for building and running two nodes: the application and the dabase. :gift:
 - [Use Camel for providing a REST endpoint for queries](https://github.com/AlbertoCalvoRubio/lab5-soa/tree/gift) Alberto Calvo has learned that it is very easy to create http endpoints in Camel but remember: it is a pipeline and you must explicitly tell Camel what to do. :gift:
-- [Create an operator "-" to filter out tweets that contain a keyword](https://github.com/andrewknoll/lab5-soa/tree/test) Alberto Rubio has fought and won against Apache Camel documentation. :gift:  
+- [Create an operator "-" to filter out tweets that contain a keyword](https://github.com/andrewknoll/lab5-soa/tree/test) Andrés Otero has fought and won against Apache Camel documentation. :gift:  
 - [Use Camel for providing a WebSocked endpoint for queries](https://github.com/TheRealFreeman/lab5-soa/tree/gift) Enrique Ruiz has leaned how to setup a WebSocket enpoint with Camel, and (after a review) how to ensure that JSON responses are send back to the client and handled by JavaScript. 
 - [Throttle the route to avoid be banned by Twitter](https://github.com/Kifixo/lab5-soa/tree/test) Daniel Huici has leared a lesson complementary to Alberto Rubio's lesson: sometimes in Apache Camel it is very easy to do powerful things. :gift:
 
