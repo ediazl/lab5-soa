@@ -24,7 +24,7 @@ Done:
 
 - [Use Camel for keeping a copy of responses in a database](https://github.com/rauljavierre/lab5-soa/tree/test) Raul Javierre has learned how an external database can be integrated in a Camel route quite easily. In additon, his work shows how to use docker-compose for building and running two nodes: the application and the dabase. :gift:
 - [Use Camel for providing a REST endpoint for queries](https://github.com/AlbertoCalvoRubio/lab5-soa/tree/gift) Alberto Calvo has learned that it is very easy to create http endpoints in Camel but remember: it is a pipeline and you must explicitly tell Camel what to do. :gift:
-- [Create an operator "-" to filter out tweets that contain a keyword](https://github.com/andrewknoll/lab5-soa/tree/test) Alberto Rubio has fought and won against Apache Camel documentation. :gift:  
+- [Create an operator "-" to filter out tweets that contain a keyword](https://github.com/andrewknoll/lab5-soa/tree/test) Andrés Otero has fought and won against Apache Camel documentation. :gift:  
 - [Use Camel for providing a WebSocked endpoint for queries](https://github.com/TheRealFreeman/lab5-soa/tree/gift) Enrique Ruiz has leaned how to setup a WebSocket enpoint with Camel, and (after a review) how to ensure that JSON responses are send back to the client and handled by JavaScript. 
 - [Throttle the route to avoid be banned by Twitter](https://github.com/Kifixo/lab5-soa/tree/test) Daniel Huici has leared a lesson complementary to Alberto Rubio's lesson: sometimes in Apache Camel it is very easy to do powerful things. :gift:
 
@@ -65,4 +65,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 758807 | [Jorge Garcia](https://github.com/jgarciapueyo) |[jgarciapueyo/lab5-soa](https://github.com/jgarciapueyo/lab5-soa/tree/test) | Enrich the response with moustache | | 
 | 723883 | [Jorge Turbica](https://github.com/turbica) |[turbica/lab5-soa](https://github.com/turbica/lab5-soa/tree/test)     |        |
 | 740241 | [Sergio Álvarez](https://github.com/sergio-alv) |[sergio-alv/lab5-soa](https://github.com/sergio-alv/lab5-soa/tree/test)     |        | 
+| 755769 | [Saúl Flores](https://github.com/saul205) |[saul205/lab5-soa](https://github.com/saul205/lab5-soa/tree/test)     |        | 
+| 739324 | [elenamv13](https://github.com/elenamv13)|[elenamv13/lab5-soa](https://github.com/elenamv13/lab5-soa/tree/test)| | |
+| 719974 | [Sergio Martínez](https://github.com/Sergio-Martinez-97) |[Sergio-Martinez-97/lab5-soa](https://github.com/Sergio-Martinez-97/lab5-soa/tree/test)     |        |
 | 738737 | [Víctor Jarreta](https://github.com/VJarreta) |[VJarreta/lab5-soa](https://github.com/VJarreta/lab5-soa/tree/test)     |        | 
